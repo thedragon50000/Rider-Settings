@@ -1,0 +1,91 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="internal" />
+      <item value="Away From Zero" />
+      <item value="nearest" />
+      <item value="even" />
+      <item value="Newtonsoft" />
+      <item value="sealed" />
+      <item value="Action" />
+      <item value="disposed" />
+      <item value="extern" />
+      <item value="Native Header" />
+      <item value="Behaviour" />
+      <item value="Serialize Field" />
+      <item value="Aggregate" />
+      <item value="ref" />
+      <item value="Contains Generic Parameters" />
+      <item value="Is Generic Type Definition" />
+      <item value="Common" />
+      <item value="Activator" />
+      <item value="Ordinal" />
+      <item value="String Comparison" />
+      <item value="Millisecond" />
+      <item value="multidimensional" />
+      <item value="Is Assignable From" />
+      <item value="directory" />
+      <item value="Directory Info" />
+      <item value="alternate" />
+      <item value="assembly" />
+      <item value="Avatar" />
+      <item value="Indented" />
+      <item value="Array Segment" />
+      <item value="Assembly" />
+      <item value="length Bytes" />
+      <item value="Is Little Endian" />
+      <item value="Assembly Name" />
+      <item value="Message CS" />
+      <item value="BIGENDIAN" />
+      <item value="sbytes" />
+      <item value="Block Copy" />
+      <item value="width" />
+      <item value="nameof" />
+      <item value="To Even" />
+      <item value="Midpoint Rounding" />
+      <item value="decimals" />
+      <item value="Security Safe Critical" />
+      <item value="0 b 11111111 L" />
+      <item value="erase" />
+      <item value="Main" />
+      <item value="composite 1_index" />
+      <item value="compute If Absent" />
+      <item value="Config Reader" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="506" />
+        <entry key="ENGLISH" value="507" />
+        <entry key="CHINESE_TRADITIONAL" value="6" />
+        <entry key="ARABIC" value="1" />
+        <entry key="ESTONIAN" value="1" />
+        <entry key="BELARUSIAN" value="1" />
+        <entry key="DANISH" value="1" />
+        <entry key="GERMAN" value="1" />
+        <entry key="RUSSIAN" value="1" />
+        <entry key="FRENCH" value="2" />
+        <entry key="GALICIAN" value="3" />
+        <entry key="CZECH" value="2" />
+        <entry key="LUXEMBOURGISH" value="1" />
+        <entry key="ROMANIAN" value="2" />
+        <entry key="NORWEGIAN" value="1" />
+        <entry key="SWEDISH" value="1" />
+        <entry key="TELUGU" value="1" />
+        <entry key="UKRAINIAN" value="1" />
+        <entry key="VIETNAMESE" value="1" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20180810000193114" />
+        <option name="appKeyConfigured" value="true" />
+      </app-key>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Monospaced" />
+    <option name="primaryFontFamily" value="Monospaced" />
+  </component>
+</application>
