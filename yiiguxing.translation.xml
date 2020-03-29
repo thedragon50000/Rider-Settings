@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="_marked Index" />
       <item value="override" />
       <item value="internal" />
       <item value="Away From Zero" />
@@ -50,7 +51,6 @@
       <item value="erase" />
       <item value="Main" />
       <item value="composite 1_index" />
-      <item value="compute If Absent" />
     </histories>
     <option name="languageScores">
       <map>
