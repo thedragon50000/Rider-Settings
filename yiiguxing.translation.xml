@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Asymmetric Cipher" />
+      <item value="Modulus" />
+      <item value="Exponent" />
       <item value="include Private Parameters" />
       <item value="Crypto" />
       <item value="secret" />
@@ -48,14 +51,11 @@
       <item value="Assembly Name" />
       <item value="Message CS" />
       <item value="BIGENDIAN" />
-      <item value="sbytes" />
-      <item value="Block Copy" />
-      <item value="width" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="516" />
-        <entry key="ENGLISH" value="517" />
+        <entry key="CHINESE" value="520" />
+        <entry key="ENGLISH" value="521" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
