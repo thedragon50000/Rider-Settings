@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Crypto" />
       <item value="secret" />
       <item value="secret Key" />
       <item value="symmetric" />
@@ -50,12 +51,11 @@
       <item value="Block Copy" />
       <item value="width" />
       <item value="nameof" />
-      <item value="To Even" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="514" />
-        <entry key="ENGLISH" value="515" />
+        <entry key="CHINESE" value="515" />
+        <entry key="ENGLISH" value="516" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
