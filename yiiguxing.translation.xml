@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="secret" />
+      <item value="secret Key" />
+      <item value="symmetric" />
+      <item value="Encryptor" />
+      <item value="Symmetric" />
+      <item value="Symmetric Cipher" />
       <item value="Sure" />
       <item value="_marked Index" />
       <item value="override" />
@@ -45,17 +51,11 @@
       <item value="width" />
       <item value="nameof" />
       <item value="To Even" />
-      <item value="Midpoint Rounding" />
-      <item value="decimals" />
-      <item value="Security Safe Critical" />
-      <item value="0 b 11111111 L" />
-      <item value="erase" />
-      <item value="Main" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="508" />
-        <entry key="ENGLISH" value="509" />
+        <entry key="CHINESE" value="514" />
+        <entry key="ENGLISH" value="515" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
