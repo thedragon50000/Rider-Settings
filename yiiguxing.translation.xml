@@ -1,8 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="algorithm" />
       <item value="strength" />
+      <item value="_algorithm" />
+      <item value="Generate Key" />
+      <item value="internal" />
+      <item value="algorithm" />
       <item value="for Encryption" />
       <item value="Castle" />
       <item value="Bouncy" />
@@ -25,7 +28,6 @@
       <item value="Sure" />
       <item value="_marked Index" />
       <item value="override" />
-      <item value="internal" />
       <item value="Away From Zero" />
       <item value="nearest" />
       <item value="even" />
@@ -49,13 +51,11 @@
       <item value="multidimensional" />
       <item value="Is Assignable From" />
       <item value="directory" />
-      <item value="Directory Info" />
-      <item value="alternate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="536" />
-        <entry key="ENGLISH" value="537" />
+        <entry key="CHINESE" value="540" />
+        <entry key="ENGLISH" value="541" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
