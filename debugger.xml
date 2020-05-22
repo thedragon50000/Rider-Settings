@@ -73,15 +73,13 @@
     <data-views>
       <option name="valueLookupDelay" value="150" />
     </data-views>
-    <general />
+    <general>
+      <unmute-on-stop>true</unmute-on-stop>
+    </general>
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
-          <option name="allowTypingDuringDebug" value="true" />
           <option name="editAndContinueEnabled" value="false" />
-          <option name="remappedSourceLocationsMap">
-            <map />
-          </option>
         </configuration>
       </debugger>
       <debugger id="javascript">

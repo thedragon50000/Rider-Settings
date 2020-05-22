@@ -1,13 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bouncy" />
       <item value="certainty" />
       <item value="Strength" />
       <item value="strength" />
       <item value="sealed" />
       <item value="Subject" />
       <item value="Castle" />
-      <item value="Bouncy" />
       <item value="signature" />
       <item value="recognised" />
       <item value="recognised.”" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="560" />
-        <entry key="ENGLISH" value="561" />
+        <entry key="CHINESE" value="561" />
+        <entry key="ENGLISH" value="562" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
