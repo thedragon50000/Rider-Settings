@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bouncy" />
       <item value="partial" />
       <item value="corrupted”" />
       <item value="corrupted" />
@@ -8,7 +9,6 @@
       <item value="ANSIX 923" />
       <item value="Zeros" />
       <item value="PKCS 7" />
-      <item value="Bouncy" />
       <item value="Castle" />
       <item value="strength" />
       <item value="_algorithm" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="548" />
-        <entry key="ENGLISH" value="549" />
+        <entry key="CHINESE" value="549" />
+        <entry key="ENGLISH" value="550" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
