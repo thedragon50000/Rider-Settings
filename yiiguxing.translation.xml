@@ -1,10 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="sealed" />
+      <item value="Subject" />
+      <item value="Castle" />
+      <item value="Bouncy" />
       <item value="signature" />
       <item value="recognised" />
       <item value="recognised.”" />
-      <item value="Bouncy" />
       <item value="partial" />
       <item value="corrupted”" />
       <item value="corrupted" />
@@ -12,7 +15,6 @@
       <item value="ANSIX 923" />
       <item value="Zeros" />
       <item value="PKCS 7" />
-      <item value="Castle" />
       <item value="strength" />
       <item value="_algorithm" />
       <item value="Generate Key" />
@@ -42,7 +44,6 @@
       <item value="nearest" />
       <item value="even" />
       <item value="Newtonsoft" />
-      <item value="sealed" />
       <item value="Action" />
       <item value="disposed" />
       <item value="extern" />
@@ -50,12 +51,11 @@
       <item value="Behaviour" />
       <item value="Serialize Field" />
       <item value="Aggregate" />
-      <item value="ref" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="550" />
-        <entry key="ENGLISH" value="551" />
+        <entry key="CHINESE" value="554" />
+        <entry key="ENGLISH" value="555" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
