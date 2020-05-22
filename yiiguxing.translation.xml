@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="certainty" />
+      <item value="Strength" />
+      <item value="strength" />
       <item value="sealed" />
       <item value="Subject" />
       <item value="Castle" />
@@ -15,7 +18,6 @@
       <item value="ANSIX 923" />
       <item value="Zeros" />
       <item value="PKCS 7" />
-      <item value="strength" />
       <item value="_algorithm" />
       <item value="Generate Key" />
       <item value="internal" />
@@ -49,13 +51,11 @@
       <item value="extern" />
       <item value="Native Header" />
       <item value="Behaviour" />
-      <item value="Serialize Field" />
-      <item value="Aggregate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="554" />
-        <entry key="ENGLISH" value="555" />
+        <entry key="CHINESE" value="560" />
+        <entry key="ENGLISH" value="561" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
