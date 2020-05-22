@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="partial" />
       <item value="corrupted”" />
       <item value="corrupted" />
       <item value="pad block corrupte" />
@@ -50,12 +51,11 @@
       <item value="Contains Generic Parameters" />
       <item value="Is Generic Type Definition" />
       <item value="Common" />
-      <item value="Activator" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="548" />
-        <entry key="ENGLISH" value="548" />
+        <entry key="ENGLISH" value="549" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
