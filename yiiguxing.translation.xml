@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Signature:" />
+      <item value="nameof" />
+      <item value="signer" />
+      <item value="Verify" />
+      <item value="signature" />
+      <item value="Asymmetric" />
       <item value="Bouncy" />
       <item value="certainty" />
       <item value="Strength" />
@@ -8,7 +14,6 @@
       <item value="sealed" />
       <item value="Subject" />
       <item value="Castle" />
-      <item value="signature" />
       <item value="recognised" />
       <item value="recognised.”" />
       <item value="partial" />
@@ -23,7 +28,6 @@
       <item value="internal" />
       <item value="algorithm" />
       <item value="for Encryption" />
-      <item value="Asymmetric" />
       <item value="Certificate" />
       <item value="Certificat" />
       <item value="X 509 Extension Base" />
@@ -47,15 +51,11 @@
       <item value="even" />
       <item value="Newtonsoft" />
       <item value="Action" />
-      <item value="disposed" />
-      <item value="extern" />
-      <item value="Native Header" />
-      <item value="Behaviour" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="561" />
-        <entry key="ENGLISH" value="562" />
+        <entry key="CHINESE" value="566" />
+        <entry key="ENGLISH" value="566" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
@@ -63,7 +63,7 @@
         <entry key="DANISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="4" />
         <entry key="GALICIAN" value="3" />
         <entry key="CZECH" value="2" />
         <entry key="LUXEMBOURGISH" value="1" />
