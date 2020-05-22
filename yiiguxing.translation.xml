@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="corrupted”" />
+      <item value="corrupted" />
+      <item value="pad block corrupte" />
+      <item value="ANSIX 923" />
+      <item value="Zeros" />
+      <item value="PKCS 7" />
       <item value="Bouncy" />
       <item value="Castle" />
       <item value="strength" />
@@ -45,17 +51,11 @@
       <item value="Is Generic Type Definition" />
       <item value="Common" />
       <item value="Activator" />
-      <item value="Ordinal" />
-      <item value="String Comparison" />
-      <item value="Millisecond" />
-      <item value="multidimensional" />
-      <item value="Is Assignable From" />
-      <item value="directory" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="543" />
-        <entry key="ENGLISH" value="544" />
+        <entry key="CHINESE" value="548" />
+        <entry key="ENGLISH" value="548" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
