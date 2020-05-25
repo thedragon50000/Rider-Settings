@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Clear" />
       <item value="session Cipher" />
       <item value="Signature:" />
       <item value="nameof" />
@@ -50,12 +51,11 @@
       <item value="Away From Zero" />
       <item value="nearest" />
       <item value="even" />
-      <item value="Newtonsoft" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="566" />
-        <entry key="ENGLISH" value="566" />
+        <entry key="CHINESE" value="569" />
+        <entry key="ENGLISH" value="570" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
