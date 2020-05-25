@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="session Cipher" />
       <item value="Signature:" />
       <item value="nameof" />
       <item value="signer" />
@@ -50,7 +51,6 @@
       <item value="nearest" />
       <item value="even" />
       <item value="Newtonsoft" />
-      <item value="Action" />
     </histories>
     <option name="languageScores">
       <map>
