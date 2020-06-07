@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="multiple" />
+      <item value="certainty" />
+      <item value="digest" />
+      <item value="Interop" />
+      <item value="Interop Services" />
       <item value="assembly" />
       <item value="through" />
       <item value="sealed" />
@@ -17,7 +22,6 @@
       <item value="signature" />
       <item value="Asymmetric" />
       <item value="Bouncy" />
-      <item value="certainty" />
       <item value="Strength" />
       <item value="strength" />
       <item value="Subject" />
@@ -47,15 +51,11 @@
       <item value="Crypto" />
       <item value="secret" />
       <item value="secret Key" />
-      <item value="symmetric" />
-      <item value="Encryptor" />
-      <item value="Symmetric" />
-      <item value="Symmetric Cipher" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="577" />
-        <entry key="ENGLISH" value="578" />
+        <entry key="CHINESE" value="584" />
+        <entry key="ENGLISH" value="585" />
         <entry key="CHINESE_TRADITIONAL" value="6" />
         <entry key="ARABIC" value="1" />
         <entry key="ESTONIAN" value="1" />
