@@ -1,0 +1,18 @@
+<application>
+  <component name="CodeLensSettings">
+    <enabled>
+      <map />
+    </enabled>
+    <order>
+      <list>
+        <option value="Unity Assets Usage" />
+        <option value="Usages" />
+        <option value="Derived symbols" />
+        <option value="VcsAuthorCodeLensProvider" />
+        <option value="Extension methods" />
+        <option value="Exposing API" />
+        <option value="IL code" />
+      </list>
+    </order>
+  </component>
+</application>
