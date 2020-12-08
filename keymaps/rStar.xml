@@ -11,6 +11,12 @@
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
   <action id="EditSource" />
+  <action id="EditorDecreaseFontSize">
+    <mouse-shortcut keystroke="control button142" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <mouse-shortcut keystroke="control button143" />
+  </action>
   <action id="EditorMoveDownAndScroll">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
