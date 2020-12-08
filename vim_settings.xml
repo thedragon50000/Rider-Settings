@@ -3,14 +3,7 @@
     <editor />
   </component>
   <component name="VimKeySettings">
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed A</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed X</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <shortcut-conflicts />
   </component>
   <component name="VimSettings">
     <state version="7" enabled="true" />
