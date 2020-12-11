@@ -1,6 +1,5 @@
 <application>
   <component name="RiderCodeCompletionExtraSettings">
     <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
-    <option name="parenthesesInsertType" value="Opening only" />
   </component>
 </application>
