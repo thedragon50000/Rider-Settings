@@ -1,8 +1,18 @@
 <application>
   <component name="CustomPostfixTemplatesApplicationSettings">
-    <CptPluginSettings SettingsVersion="2">
+    <CptPluginSettings VarLambdaStyle="false" SettingsVersion="2">
       <option name="langName2virtualFiles">
         <map>
+          <entry key="c#">
+            <value>
+              <list>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="file" value="${PLUGIN}\c#\user.postfixTemplates" />
+                </VFile>
+              </list>
+            </value>
+          </entry>
           <entry key="go">
             <value>
               <list>
