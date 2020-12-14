@@ -1,10 +1,20 @@
 <keymap version="1" name="rStar" parent="ReSharper">
+  <action id="ActivateFavoritesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
+  <action id="ActivateFindToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt u" />
+  </action>
+  <action id="ActivateInspectionResultsToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt 4" />
+  </action>
+  <action id="ActivateRunToolWindow" />
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="alt 3" />
   </action>
   <action id="ActivateUnitTestsToolWindow">
     <keyboard-shortcut first-keystroke="shift alt 8" />
-    <keyboard-shortcut first-keystroke="alt 4" />
+    <keyboard-shortcut first-keystroke="alt 2" />
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
