@@ -13,8 +13,5 @@
     <entry key="ide.win.frame.decoration" value="true" />
     <entry key="ide.tooltip.showAllSeverities" value="true" />
     <entry key="documentation.show.toolbar" value="true" />
-    <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
-    <entry key="use.tabbed.welcome.screen" value="false" />
-    <entry key="ide.new.project.model" value="false" />
   </component>
 </application>
