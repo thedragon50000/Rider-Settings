@@ -21,6 +21,7 @@
   <action id="BuildSolutionAction" />
   <action id="CloneCaretAboveWithVirtualSpace" />
   <action id="CloneCaretBelowWithVirtualSpace" />
+  <action id="CollapseAllRegions" />
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
@@ -37,6 +38,7 @@
   <action id="EditorMoveUpAndScroll">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
+  <action id="EditorScrollToCenter" />
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
@@ -96,9 +98,13 @@
   <action id="RecentLocations">
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
+  <action id="RiderCollapseToDefinitions" />
   <action id="ShowContent" />
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="Unscramble" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
   <action id="VcsShowNextChangeMarker">
     <keyboard-shortcut first-keystroke="alt page_down" />
   </action>
