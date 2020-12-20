@@ -58,4 +58,17 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="teardown" value="[TearDown]&#10;public void Teardown()&#10;{&#10;    $END$&#10;}" description="unit test teardown" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
 </templateSet>
