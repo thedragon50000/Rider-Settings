@@ -1,5 +1,6 @@
 <application>
   <component name="RiderCodeCompletionExtraSettings">
     <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+    <option name="lowerRelevanceForObsoleteCompiledElements" value="false" />
   </component>
 </application>
