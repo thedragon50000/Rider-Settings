@@ -430,6 +430,7 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
               <option name="myPluginName" value="F# Support" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -438,6 +439,7 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
               <option name="myPluginName" value="F# Support" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -455,6 +457,7 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
               <option name="myPluginName" value="F# Support" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -463,6 +466,7 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
               <option name="myPluginName" value="F# Support" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -912,6 +916,7 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
               <option name="myPluginName" value="F# Support" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -920,6 +925,7 @@
             <plugin>
               <option name="myPluginId" value="com.jetbrains.rider.fsharp" />
               <option name="myPluginName" value="F# Support" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
