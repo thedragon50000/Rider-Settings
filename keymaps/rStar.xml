@@ -25,7 +25,6 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
-  <action id="ContextHelp" />
   <action id="EditSource" />
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
@@ -90,7 +89,6 @@
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="NextOccurence" />
-  <action id="PlantUML.Update" />
   <action id="PreviousOccurence" />
   <action id="RdParameterDeclarationNavigationAction">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
