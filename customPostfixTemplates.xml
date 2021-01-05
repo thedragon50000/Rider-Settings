@@ -140,6 +140,30 @@
               </list>
             </value>
           </entry>
+          <entry key="kotlin">
+            <value>
+              <list>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="yfr.assertj-core" />
+                  <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/kotlin/yfr.assertj-core.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\kotlin\yfr.assertj-core.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="yfr.junit5" />
+                  <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/kotlin/yfr.junit5.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\kotlin\yfr.junit5.postfixTemplates" />
+                </VFile>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="id" value="yfr.mockito" />
+                  <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/kotlin/yfr.mockito.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\kotlin\yfr.mockito.postfixTemplates" />
+                </VFile>
+              </list>
+            </value>
+          </entry>
           <entry key="php">
             <value>
               <list>
