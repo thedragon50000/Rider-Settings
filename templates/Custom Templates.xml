@@ -31,7 +31,7 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="setup" value="[SetUp]&#10;public void SetUp()&#10;{&#10;    $END$&#10;}" description="unit test setup" toReformat="true" toShortenFQNames="true">
+  <template name="setup" value="[SetUp]&#10;public void Setup()&#10;{&#10;    $END$&#10;}" description="unit test setup" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CPT" value="false" />
       <option name="CSS" value="false" />
