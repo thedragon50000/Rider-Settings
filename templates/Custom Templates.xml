@@ -1,0 +1,87 @@
+<templateSet group="Custom Templates">
+  <template name="d" value="Debug.Log($&quot;{$Select$$End$}&quot;);" description="Debug.Log" toReformat="true" toShortenFQNames="true">
+    <variable name="Select" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="End" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="if" value="#if&#10;$VAR$&#10;#endif" description="#if" toReformat="true" toShortenFQNames="true" deactivated="true">
+    <variable name="VAR" expression="lineNumber()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="setup" value="[SetUp]&#10;public void Setup()&#10;{&#10;    $END$&#10;}" description="unit test setup" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="ae" value="Assert.AreEqual( $Expected$ , $SELECTION$$END$ );" description="Assert.AreEqual" toReformat="true" toShortenFQNames="true">
+    <variable name="Expected" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="teardown" value="[TearDown]&#10;public void Teardown()&#10;{&#10;    $END$&#10;}" description="unit test teardown" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="an" value="Assert.NotNull( $SELECTION$$END$ );" description="Assert.NotNull" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>
