@@ -1,0 +1,22 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Get Actor Id" />
+      <item value="actor Id" />
+      <item value="Id" />
+      <item value="actor" />
+      <item value="google" />
+      <item value="g" />
+      <item value="a" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="14" />
+        <entry key="CHINESE_TRADITIONAL" value="13" />
+      </map>
+    </option>
+  </component>
+  <component name="Cache">
+    <option name="lastTrimTime" value="1611165874136" />
+  </component>
+</application>

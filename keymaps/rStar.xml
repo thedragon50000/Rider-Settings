@@ -111,6 +111,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="RiderCollapseToDefinitions" />
+  <action id="RiderOpenSolution" />
   <action id="ShowContent" />
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="Unscramble" />
