@@ -21,7 +21,9 @@
   <action id="BuildSolutionAction" />
   <action id="CloneCaretAboveWithVirtualSpace" />
   <action id="CloneCaretBelowWithVirtualSpace" />
-  <action id="CollapseAllRegions" />
+  <action id="CollapseAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl minus" />
+  </action>
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
@@ -42,7 +44,9 @@
   <action id="EditorSelectLine">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
-  <action id="ExpandAllRegions" />
+  <action id="ExpandAllRegions">
+    <keyboard-shortcut first-keystroke="shift ctrl equals" />
+  </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
@@ -53,6 +57,10 @@
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
@@ -103,6 +111,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl e" />
   </action>
   <action id="RiderCollapseToDefinitions" />
+  <action id="RiderOpenSolution" />
   <action id="ShowContent" />
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="Unscramble" />
