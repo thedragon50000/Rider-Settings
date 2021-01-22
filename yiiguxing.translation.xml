@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Substract Amount" />
       <item value="Position Mapper" />
       <item value="Add Domain Event" />
       <item value="public void AddActor(string actorId) { _actors.Add(actorId); AddDomainEvent(new PositionActorAdded(actorId , GetPositionId())); }" />
@@ -18,8 +19,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="22" />
-        <entry key="CHINESE_TRADITIONAL" value="22" />
+        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE_TRADITIONAL" value="23" />
         <entry key="DANISH" value="1" />
       </map>
     </option>
