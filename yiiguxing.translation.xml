@@ -1,27 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Substract Amount" />
-      <item value="Position Mapper" />
-      <item value="Add Domain Event" />
-      <item value="public void AddActor(string actorId) { _actors.Add(actorId); AddDomainEvent(new PositionActorAdded(actorId , GetPositionId())); }" />
-      <item value="Add Actor" />
-      <item value="中文" />
-      <item value="google" />
-      <item value="string" />
-      <item value="actor Id" />
       <item value="id" />
       <item value="Get Actor Id" />
+      <item value="actor Id" />
       <item value="Id" />
       <item value="actor" />
+      <item value="google" />
       <item value="g" />
       <item value="a" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="24" />
-        <entry key="CHINESE_TRADITIONAL" value="23" />
-        <entry key="DANISH" value="1" />
+        <entry key="ENGLISH" value="16" />
+        <entry key="CHINESE_TRADITIONAL" value="15" />
       </map>
     </option>
   </component>
