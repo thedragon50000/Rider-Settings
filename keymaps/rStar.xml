@@ -21,6 +21,15 @@
   <action id="BuildSolutionAction" />
   <action id="CloneCaretAboveWithVirtualSpace" />
   <action id="CloneCaretBelowWithVirtualSpace" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="ctrl f3" />
+  </action>
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="ctrl f2" />
+  </action>
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f1" />
+  </action>
   <action id="CollapseAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
@@ -50,6 +59,9 @@
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="shift ctrl period" />
   </action>
+  <action id="ExternalJavaDoc">
+    <keyboard-shortcut first-keystroke="shift f1" />
+  </action>
   <action id="FindNext">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
     <keyboard-shortcut first-keystroke="ctrl alt page_down" />
@@ -58,6 +70,7 @@
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="ctrl f7" />
   </action>
+  <action id="FindWordAtCaret" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="shift ctrl subtract" />
     <mouse-shortcut keystroke="button5" />
@@ -113,6 +126,9 @@
   <action id="RiderCollapseToDefinitions" />
   <action id="RiderOpenSolution" />
   <action id="ShowContent" />
+  <action id="ShowErrorDescription">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="Unscramble" />
   <action id="Vcs.ShowMessageHistory">
