@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Abstract Builder" />
       <item value="id" />
       <item value="Get Actor Id" />
       <item value="actor Id" />
@@ -12,8 +13,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="16" />
-        <entry key="CHINESE_TRADITIONAL" value="15" />
+        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE_TRADITIONAL" value="17" />
       </map>
     </option>
   </component>
