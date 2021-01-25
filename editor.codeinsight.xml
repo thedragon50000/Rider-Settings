@@ -1,6 +1,12 @@
 <application>
+  <component name="FSharpCodeFoldingSettings">
+    <option name="collapseHashDirectives" value="false" />
+  </component>
   <component name="RiderCodeCompletionExtraSettings">
     <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
     <option name="lowerRelevanceForObsoleteCompiledElements" value="false" />
+  </component>
+  <component name="RiderDefaultCodeFoldingSettings">
+    <option name="collapseRegions" value="false" />
   </component>
 </application>
