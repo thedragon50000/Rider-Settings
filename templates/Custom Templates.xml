@@ -84,4 +84,19 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="executeBody" value="var $Entity$  = repository.FindById(input.$End$);&#10;&#10;domainEventBus.PostAll($Entity$);&#10;&#10;output.SetId($Entity$.GetId());&#10;output.SetExitCode(ExitCode.SUCCESS);" description="executeBody" toReformat="false" toShortenFQNames="true">
+    <variable name="Entity" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="End" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
 </templateSet>
