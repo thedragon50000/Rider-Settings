@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Directory '...\Assets\AutoBot\Scripts\Main\UseCase'" />
+    <option name="defaultScopeName" value="Directory '...\Assets\AutoBot\Scripts\Main\UseCase'" />
+    <option name="SEARCH_SCOPE" value="Directory '...\Assets\AutoBot\Scripts\Main\UseCase'" />
   </component>
 </application>
