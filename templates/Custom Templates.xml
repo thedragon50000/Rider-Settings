@@ -99,4 +99,21 @@
       <option name="XML" value="false" />
     </context>
   </template>
+  <template name="usecaseTemplate" value="var input  = new $usecase$Input();&#10;var output = new CqrsCommandPresenter();&#10;input.$Entity$ = $event$.$Entity$;&#10;$UseCase$.Execute(input , output);" description="usecase template" toReformat="false" toShortenFQNames="true">
+    <variable name="usecase" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="Entity" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="event" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="UseCase" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
 </templateSet>
