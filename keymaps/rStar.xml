@@ -102,9 +102,11 @@
   </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt down" />
+    <keyboard-shortcut first-keystroke="shift j" />
   </action>
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="alt up" />
+    <keyboard-shortcut first-keystroke="shift k" />
   </action>
   <action id="MoveTabRight">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
