@@ -36,7 +36,9 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
+  <action id="Debugger.EditTypeSource" />
   <action id="EditSource" />
+  <action id="EditSourceInNewWindow" />
   <action id="EditorDecreaseFontSize">
     <mouse-shortcut keystroke="control button142" />
   </action>
@@ -133,6 +135,7 @@
   </action>
   <action id="RiderCollapseToDefinitions" />
   <action id="RiderOpenSolution" />
+  <action id="RunDashboard.EditConfiguration" />
   <action id="ShowContent" />
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="alt t" />
