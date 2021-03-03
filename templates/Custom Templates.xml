@@ -1,5 +1,5 @@
 <templateSet group="Custom Templates">
-  <template name="d" value="Debug.Log($&quot;{$Select$$End$}&quot;);" description="Debug.Log" toReformat="true" toShortenFQNames="true">
+  <template name="d" value="Debug.Log($&quot;$Select${$End$}&quot;);" description="Debug.Log" toReformat="true" toShortenFQNames="true">
     <variable name="Select" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="End" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
