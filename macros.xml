@@ -1,0 +1,7 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="SelectMethodBody">
+      <typing text-keycode="90:0;46:0">z.</typing>
+    </macro>
+  </component>
+</application>
