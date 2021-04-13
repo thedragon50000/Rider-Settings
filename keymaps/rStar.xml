@@ -68,6 +68,10 @@
     <keyboard-shortcut first-keystroke="shift ctrl down" />
     <keyboard-shortcut first-keystroke="ctrl alt page_down" />
   </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift ctrl up" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="ctrl f7" />
@@ -80,9 +84,8 @@
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
   </action>
-  <action id="GotoNextError">
-    <keyboard-shortcut first-keystroke="f3" />
-  </action>
+  <action id="GotoNextError" />
+  <action id="GotoPreviousError" />
   <action id="GotoTest">
     <keyboard-shortcut first-keystroke="shift ctrl t" />
   </action>
@@ -124,6 +127,12 @@
   <action id="RdParameterDeclarationNavigationAction">
     <keyboard-shortcut first-keystroke="shift ctrl b" />
   </action>
+  <action id="ReSharperGotoNextErrorInSolution">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="ReSharperGotoPrevErrorInSolution">
+    <keyboard-shortcut first-keystroke="shift f3" />
+  </action>
   <action id="RearrangeCode">
     <keyboard-shortcut first-keystroke="ctrl alt comma" />
   </action>
@@ -140,6 +149,7 @@
   <action id="ShowErrorDescription">
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="SwitcherPreviousProblem" />
   <action id="TodoViewGroupByFlattenPackage" />
   <action id="Unscramble" />
   <action id="Vcs.ShowMessageHistory">
