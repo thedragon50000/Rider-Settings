@@ -27,6 +27,12 @@
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="ctrl f2" />
   </action>
+  <action id="CloseAllToTheLeft">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+  <action id="CloseAllToTheRight">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="ctrl f1" />
   </action>
@@ -154,11 +160,5 @@
   <action id="Unscramble" />
   <action id="Vcs.ShowMessageHistory">
     <keyboard-shortcut first-keystroke="ctrl m" />
-  </action>
-  <action id="VcsShowNextChangeMarker">
-    <keyboard-shortcut first-keystroke="alt page_down" />
-  </action>
-  <action id="VcsShowPrevChangeMarker">
-    <keyboard-shortcut first-keystroke="alt page_up" />
   </action>
 </keymap>
