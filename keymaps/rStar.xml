@@ -18,6 +18,9 @@
   </action>
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt semicolon" />
+  </action>
   <action id="BuildSolutionAction" />
   <action id="CloneCaretAboveWithVirtualSpace" />
   <action id="CloneCaretBelowWithVirtualSpace" />
@@ -84,8 +87,7 @@
   </action>
   <action id="FindWordAtCaret" />
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="shift ctrl subtract" />
-    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt quote" />
   </action>
   <action id="GotoClass">
     <keyboard-shortcut first-keystroke="ctrl alt c" />
