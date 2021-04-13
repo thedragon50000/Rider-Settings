@@ -7,6 +7,7 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="HTML" value="false" />
+      <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
       <option name="Handlebars" value="false" />
       <option name="JADE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
