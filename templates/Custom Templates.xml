@@ -1,5 +1,5 @@
 <templateSet group="Custom Templates">
-  <template name="d" value="Debug.Log($&quot;$Select$ {$SELECTION$$END$}&quot;);" description="Debug.Log" toReformat="true" toShortenFQNames="true">
+  <template name="d" value="Debug.Log($&quot;$Select$ {$SELECTION$$END$}&quot;);" description="Debug.Log" toReformat="false" toShortenFQNames="true">
     <variable name="Select" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CPT" value="false" />
