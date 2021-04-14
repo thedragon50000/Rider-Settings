@@ -1,5 +1,5 @@
 <templateSet group="Custom Templates">
-  <template name="d" value="Debug.Log($&quot;$Select$ {$SELECTION$$END$}&quot;);" description="Debug.Log" toReformat="true" toShortenFQNames="true">
+  <template name="d" value="Debug.Log($&quot;$Select$ {$SELECTION$$END$}&quot;);" description="Debug.Log" toReformat="false" toShortenFQNames="true">
     <variable name="Select" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="CPT" value="false" />
@@ -7,6 +7,7 @@
       <option name="CUCUMBER_FEATURE_FILE" value="false" />
       <option name="CoffeeScript" value="false" />
       <option name="HTML" value="false" />
+      <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
       <option name="Handlebars" value="false" />
       <option name="JADE" value="false" />
       <option name="JAVA_SCRIPT" value="false" />
