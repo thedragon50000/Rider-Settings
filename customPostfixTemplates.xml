@@ -3,6 +3,16 @@
     <CptPluginSettings VarLambdaStyle="false" SettingsVersion="2">
       <option name="langName2virtualFiles">
         <map>
+          <entry key="c#">
+            <value>
+              <list>
+                <VFile>
+                  <option name="enabled" value="true" />
+                  <option name="file" value="${PLUGIN}\c#\user.postfixTemplates" />
+                </VFile>
+              </list>
+            </value>
+          </entry>
           <entry key="go">
             <value>
               <list>
@@ -138,7 +148,6 @@
                   <option name="file" value="${PLUGIN}\java\xylo.idea-dev.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="yfr.junit5" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/java/yfr.junit5.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\java\yfr.junit5.postfixTemplates" />
@@ -150,19 +159,16 @@
             <value>
               <list>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="yfr.assertj-core" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/kotlin/yfr.assertj-core.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\kotlin\yfr.assertj-core.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="yfr.junit5" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/kotlin/yfr.junit5.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\kotlin\yfr.junit5.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="enabled" value="true" />
                   <option name="id" value="yfr.mockito" />
                   <option name="url" value="https://raw.githubusercontent.com/xylo/intellij-postfix-templates/master/templates/kotlin/yfr.mockito.postfixTemplates" />
                   <option name="file" value="${PLUGIN}\kotlin\yfr.mockito.postfixTemplates" />
