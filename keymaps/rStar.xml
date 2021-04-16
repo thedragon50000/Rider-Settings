@@ -20,6 +20,7 @@
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt semicolon" />
+    <mouse-shortcut keystroke="button4" />
   </action>
   <action id="BuildSolutionAction" />
   <action id="CloneCaretAboveWithVirtualSpace" />
@@ -89,6 +90,7 @@
   <action id="FindWordAtCaret" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt quote" />
+    <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Git.Commit.And.Push.Executor" />
   <action id="GotoClass">
