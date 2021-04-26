@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Should Return Positive Number Of Add Result" />
+      <item value="Should Return Positive Number" />
+      <item value="Positive" />
       <item value="dfhsakjfmndsnf" />
       <item value="dfhsakj" />
       <item value="Abstract Builder" />
@@ -21,6 +24,6 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1616590950113" />
+    <option name="lastTrimTime" value="1619253884583" />
   </component>
 </application>
