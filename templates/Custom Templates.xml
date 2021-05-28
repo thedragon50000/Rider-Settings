@@ -19,20 +19,6 @@
       <option name="XML" value="false" />
     </context>
   </template>
-  <template name="if" value="#if&#10;$VAR$&#10;#endif" description="#if" toReformat="true" toShortenFQNames="true" deactivated="true">
-    <variable name="VAR" expression="lineNumber()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="CPT" value="false" />
-      <option name="CSS" value="false" />
-      <option name="CUCUMBER_FEATURE_FILE" value="false" />
-      <option name="HTML" value="false" />
-      <option name="Handlebars" value="false" />
-      <option name="JSON" value="false" />
-      <option name="OTHER" value="true" />
-      <option name="REQUEST" value="false" />
-      <option name="XML" value="false" />
-    </context>
-  </template>
   <template name="setup" value="[SetUp]&#10;public void Setup()&#10;{&#10;    $END$&#10;}" description="unit test setup" toReformat="true" toShortenFQNames="true">
     <context>
       <option name="CPT" value="false" />
@@ -115,6 +101,26 @@
       <option name="JSON" value="false" />
       <option name="OTHER" value="true" />
       <option name="REQUEST" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="in" value="[Inject]&#10;private $End$" description="inject attribute" toReformat="false" toShortenFQNames="true">
+    <variable name="End" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CPT" value="false" />
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HTML" value="false" />
+      <option name="HTTP_CLIENT_ENVIRONMENT" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="REQUEST" value="false" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
       <option name="XML" value="false" />
     </context>
   </template>
