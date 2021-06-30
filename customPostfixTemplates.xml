@@ -3,16 +3,6 @@
     <CptPluginSettings VarLambdaStyle="false" SettingsVersion="2">
       <option name="langName2virtualFiles">
         <map>
-          <entry key="c#">
-            <value>
-              <list>
-                <VFile>
-                  <option name="enabled" value="true" />
-                  <option name="file" value="${PLUGIN}\c#\user.postfixTemplates" />
-                </VFile>
-              </list>
-            </value>
-          </entry>
           <entry key="go">
             <value>
               <list>
@@ -63,9 +53,10 @@
                   <option name="file" value="${PLUGIN}\java\cassiuscai.assertj-vavr.postfixTemplates" />
                 </VFile>
                 <VFile>
-                  <option name="id" value="cassiuscai.commons-lang.date" />
-                  <option name="url" value="https://raw.githubusercontent.com/cassiuscai/postfix-templates/master/templates/commons-lang.date.postfixTemplates" />
-                  <option name="file" value="${PLUGIN}\java\cassiuscai.commons-lang.date.postfixTemplates" />
+                  <option name="enabled" value="true" />
+                  <option name="id" value="cassiuscai.commons-lang3" />
+                  <option name="url" value="https://raw.githubusercontent.com/cassiuscai/postfix-templates/master/templates/commons-lang3.postfixTemplates" />
+                  <option name="file" value="${PLUGIN}\java\cassiuscai.commons-lang3.postfixTemplates" />
                 </VFile>
                 <VFile>
                   <option name="id" value="cassiuscai.assertj-core" />
