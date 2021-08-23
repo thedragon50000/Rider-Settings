@@ -6,6 +6,7 @@
     <option name="contrastMode" value="true" />
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highContrast" value="true" />
+    <option name="premium" value="true" />
     <option name="styledDirectories" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="compactSidebar" value="true" />
@@ -19,9 +20,9 @@
     <option name="pristineConfig" value="false" />
     <option name="useProjectFrame" value="true" />
     <option name="settingsSelectedTab" value="4" />
-    <option name="accentColor" value="d33682" />
-    <option name="selectedTheme" value="SOLARIZED_DARK" />
+    <option name="accentColor" value="416a9b" />
+    <option name="selectedTheme" value="NATIVE" />
     <option name="userId" value="20e3da2c:177cb3ca695:-8000" />
-    <option name="version" value="5.5.0" />
+    <option name="version" value="6.8.1.2" />
   </component>
 </application>
