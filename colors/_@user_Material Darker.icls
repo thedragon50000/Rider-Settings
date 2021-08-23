@@ -5,7 +5,7 @@
     <property name="description">調整Local與Field顏色LogWarning</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-23T21:59:54</property>
+    <property name="modified">2021-08-23T22:01:37</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail" />
     <property name="vendorName">rStar Material Darker 0.11</property>
@@ -13,7 +13,7 @@
     <property name="version">0.11</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
-  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
