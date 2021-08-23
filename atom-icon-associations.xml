@@ -4,6 +4,7 @@
       <CustomAssociations>
         <option name="customAssociations">
           <RegexAssociation>
+            <option name="enabled" value="false" />
             <option name="matcher" value=".*\.cs" />
             <option name="pattern" value=".*\.cs" />
             <option name="name" value="csharp" />
@@ -16,6 +17,7 @@
       <CustomAssociations>
         <option name="customAssociations">
           <RegexAssociation>
+            <option name="enabled" value="false" />
             <option name="matcher" value="^$Data" />
             <option name="pattern" value="^$Data" />
             <option name="name" value="Sorce" />
