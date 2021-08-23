@@ -2,26 +2,25 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2021-08-23T15:04:01</property>
-    <property name="description" />
+    <property name="description">調整Local與Field顏色LogWarning</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-23T21:14:38</property>
+    <property name="modified">2021-08-23T21:59:54</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail" />
-    <property name="vendorName">Material Darker</property>
+    <property name="vendorName">rStar Material Darker 0.11</property>
     <property name="vendorUrl">http://</property>
-    <property name="version">0.1</property>
+    <property name="version">0.11</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.4" />
-  <option name="EDITOR_FONT_SIZE" value="16" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="LINE_SPACING" value="1.2" />
+  <option name="EDITOR_FONT_SIZE" value="20" />
+  <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <console-font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
@@ -588,6 +587,11 @@
         <option name="FOREGROUND" value="82aaff" />
       </value>
     </option>
+    <option name="DEFAULT_GLOBAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="49e5e5" />
+      </value>
+    </option>
     <option name="DEFAULT_HIGHLIGHTED_REFERENCE">
       <value>
         <option name="BACKGROUND" value="33e5d" />
@@ -601,7 +605,7 @@
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="eeffff" />
+        <option name="FOREGROUND" value="4dffe4" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
@@ -635,7 +639,9 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="eeffff" />
+        <option name="FOREGROUND" value="278674" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -672,9 +678,9 @@
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="eeffff" />
-        <option name="EFFECT_COLOR" value="eeffff" />
-        <option name="EFFECT_TYPE" value="1" />
+        <option name="FOREGROUND" value="278674" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_REASSIGNED_PARAMETER">
@@ -3485,7 +3491,7 @@
     </option>
     <option name="ReSharper.EVENT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="eeffe3" />
+        <option name="FOREGROUND" value="990000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -3524,6 +3530,11 @@
       <value>
         <option name="FOREGROUND" value="995f4a" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="ReSharper.PROPERTY_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="3cd3ff" />
       </value>
     </option>
     <option name="ReSharper.STATIC_CLASS_IDENTIFIER">
