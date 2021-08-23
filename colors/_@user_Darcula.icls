@@ -3,7 +3,7 @@
     <property name="created">2021-08-23T14:34:02</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-23T14:40:00</property>
+    <property name="modified">2021-08-23T14:58:06</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
@@ -18,4 +18,12 @@
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
   </colors>
+  <attributes>
+    <option name="MT_DIRECTORIES">
+      <value>
+        <option name="FOREGROUND" value="dcdcdc" />
+        <option name="BACKGROUND" value="1e1e1e" />
+      </value>
+    </option>
+  </attributes>
 </scheme>
