@@ -2,28 +2,27 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2021-08-23T15:04:01</property>
+    <property name="description" />
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-23T20:26:38</property>
+    <property name="modified">2021-08-23T21:14:38</property>
     <property name="originalScheme">Material Darker</property>
+    <property name="vendorMail" />
+    <property name="vendorName">Material Darker</property>
+    <property name="vendorUrl">http://</property>
+    <property name="version">0.1</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
-  <font>
-    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
-  </font>
-  <font>
-    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="20" />
-  </font>
+  <option name="EDITOR_FONT_SIZE" value="16" />
+  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
@@ -504,7 +503,7 @@
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="ffcb6b" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -525,7 +524,9 @@
     </option>
     <option name="DEFAULT_CLASS_NAME">
       <value>
-        <option name="FOREGROUND" value="ffcb6b" />
+        <option name="FOREGROUND" value="5ea043" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="1b1b1b" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -622,8 +623,8 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="c792ea" />
-        <option name="FONT_TYPE" value="2" />
+        <option name="FOREGROUND" value="734e8e" />
+        <option name="FONT_TYPE" value="3" />
       </value>
     </option>
     <option name="DEFAULT_LINE_COMMENT">
@@ -644,7 +645,8 @@
     </option>
     <option name="DEFAULT_NUMBER">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="6c93f7" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -701,7 +703,9 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="c3e88d" />
+        <option name="FOREGROUND" value="cb6a09" />
+        <option name="BACKGROUND" value="1b1b1b" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_TAG">
@@ -3515,6 +3519,12 @@
     </option>
     <option name="ReSharper.OUTLINED_ENTITY">
       <value />
+    </option>
+    <option name="ReSharper.PREPROCESSOR_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="995f4a" />
+        <option name="FONT_TYPE" value="3" />
+      </value>
     </option>
     <option name="ReSharper.STATIC_CLASS_IDENTIFIER">
       <value>
