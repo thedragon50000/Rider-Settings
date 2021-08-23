@@ -19,12 +19,11 @@
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="useMaterialFont2" value="true" />
-    <option name="useProjectFrame" value="true" />
-    <option name="customSidebarHeight" value="22" />
-    <option name="treeFontSize" value="22" />
+    <option name="useMaterialWallpapers" value="true" />
+    <option name="treeFontSize" value="16" />
     <option name="settingsSelectedTab" value="2" />
-    <option name="accentColor" value="009688" />
-    <option name="selectedTheme" value="CUSTOM" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="20e3da2c:177cb3ca695:-8000" />
     <option name="version" value="6.8.1.2" />
   </component>
