@@ -2,15 +2,15 @@
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
     <property name="created">2021-08-23T15:04:01</property>
-    <property name="description">調整Local與Field顏色LogWarning</property>
+    <property name="description" />
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-23T22:01:37</property>
+    <property name="modified">2021-08-23T23:12:14</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail" />
-    <property name="vendorName">rStar Material Darker 0.11</property>
+    <property name="vendorName">rStar Material Darker 0.12</property>
     <property name="vendorUrl">http://</property>
-    <property name="version">0.11</property>
+    <property name="version">0.12</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
   <option name="EDITOR_FONT_SIZE" value="16" />
@@ -525,7 +525,7 @@
       <value>
         <option name="FOREGROUND" value="5ea043" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="1b1b1b" />
+        <option name="EFFECT_COLOR" value="323232" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -639,9 +639,10 @@
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="278674" />
+        <option name="FOREGROUND" value="369794" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="2" />
+        <option name="EFFECT_COLOR" value="1b1b1b" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
@@ -678,7 +679,7 @@
     </option>
     <option name="DEFAULT_REASSIGNED_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="278674" />
+        <option name="FOREGROUND" value="3bd2b5" />
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
