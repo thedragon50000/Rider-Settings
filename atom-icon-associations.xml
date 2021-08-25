@@ -1,0 +1,30 @@
+<application>
+  <component name="Atom Icon Associations Config">
+    <option name="customFileAssociations">
+      <CustomAssociations>
+        <option name="customAssociations">
+          <RegexAssociation>
+            <option name="enabled" value="false" />
+            <option name="matcher" value=".*\.cs" />
+            <option name="pattern" value=".*\.cs" />
+            <option name="name" value="csharp" />
+            <option name="icon" value="C:\Users\Star\Pictures\梗圖\239184505_398757028347026_6005354894732536619_n.jpg" />
+          </RegexAssociation>
+        </option>
+      </CustomAssociations>
+    </option>
+    <option name="customFolderAssociations">
+      <CustomAssociations>
+        <option name="customAssociations">
+          <RegexAssociation>
+            <option name="enabled" value="false" />
+            <option name="matcher" value="^$Data" />
+            <option name="pattern" value="^$Data" />
+            <option name="name" value="Sorce" />
+            <option name="icon" value="C:\Users\Star\Pictures\梗圖\235902174_1009831813103492_6312301609109848183_n.jpg" />
+          </RegexAssociation>
+        </option>
+      </CustomAssociations>
+    </option>
+  </component>
+</application>
