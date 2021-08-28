@@ -5,7 +5,7 @@
     <property name="description">Change Local variable color</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-08-28T10:38:41</property>
+    <property name="modified">2021-08-28T12:51:10</property>
     <property name="originalScheme">Material Darker</property>
     <property name="vendorMail" />
     <property name="vendorName">rStar Material Darker v0.13</property>
@@ -2819,9 +2819,8 @@
     </option>
     <option name="MT_DIRECTORIES">
       <value>
-        <option name="FOREGROUND" value="eeffff" />
-        <option name="BACKGROUND" value="212121" />
-        <option name="EFFECT_TYPE" value="5" />
+        <option name="FOREGROUND" value="dcdcdc" />
+        <option name="BACKGROUND" value="1e1e1e" />
       </value>
     </option>
     <option name="NG.EXPANSION_FORM">
