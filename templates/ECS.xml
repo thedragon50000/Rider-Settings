@@ -1,0 +1,137 @@
+<templateSet group="ECS">
+  <template name="e_exeSys" value="using Entitas;&#10;&#10;public sealed class $FileName$ : IExecuteSystem&#10;{&#10;    private readonly GameContext _gameContext;&#10;&#10;    public $FileName$() { _gameContext = Contexts.sharedInstance.game; }&#10;    &#10;    public void Execute()&#10;    {&#10;        $Select$$End$&#10;    }&#10;}" description="Entitas ExecuteSystem" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="FileName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="Select" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="End" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="icom" value="[$ContextAttribute$]&#10;public sealed class $ComponentName$Component : IComponent{$End$}" description="IComponent" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="ContextAttribute" expression="" defaultValue="&quot;Game&quot;" alwaysStopAt="true" />
+    <variable name="ComponentName" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="End" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="er" value="using System.Collections.Generic;&#10;using Entitas;&#10;&#10;public sealed class $FileName$ : ReactiveSystem&lt;GameEntity&gt;&#10;{&#10;    private GameContext _gameContext;&#10;&#10;    public $FileName$(Contexts contexts) : base(contexts.game)&#10;    { _gameContext = contexts.game; }&#10;&#10;&#10;    protected override ICollector&lt;GameEntity&gt; GetTrigger(IContext&lt;GameEntity&gt; context)&#10;    {&#10;        return context.CreateCollector(GameMatcher.$Select$);&#10;    }&#10;&#10;    protected override bool Filter(GameEntity entity)&#10;    {&#10;        return true;&#10;    }&#10;&#10;    protected override void Execute(List&lt;GameEntity&gt; entities)&#10;    {&#10;        foreach (var e in entities)&#10;        {&#10;            $END$&#10;        }&#10;    }&#10;}" description="Entitas ReactiveSystem&lt;T&gt;" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="FileName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="Select" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="ecs_region" value="#region Initialize &#10;    $END$&#10;#endregion&#10;&#10;#region Input&#10;    &#10;#endregion&#10;&#10;#region Feature&#10;&#10;    #region Camera&#10;        &#10;    #endregion&#10;        &#10;    #region NPCs&#10;    &#10;    #endregion&#10;    &#10;    #region Render&#10;       &#10;    #endregion&#10;&#10;#endregion&#10;&#10;&#10;#region Debug&#10;&#10;#endregion&#10;&#10;#region Cleanup&#10;&#10;#endregion" description="Ecs Region" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="e_init" value="using Entitas;&#10;&#10;public sealed class $FileName$ : IInitializeSystem&#10;{&#10;    private readonly $ContextName$ _$ContextNameLowercase$Context;&#10;&#10;    public $FileName$() { _$ContextNameLowercase$Context = Contexts.sharedInstance.$ContextNameLowercase$; }&#10;    &#10;    public void Initialize()&#10;    {&#10;        $End$&#10;    }&#10;}" description="Entitas IInitializeSystem" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="FileName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="ContextName" expression="complete()" defaultValue="&quot;GameContext&quot;" alwaysStopAt="true" />
+    <variable name="ContextNameLowercase" expression="complete()" defaultValue="&quot;game&quot;" alwaysStopAt="true" />
+    <variable name="End" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="er_2" value="using System.Collections.Generic;&#10;using Entitas;&#10;&#10;public sealed class $FileName$ : ReactiveSystem&lt;$Entity$&gt;&#10;{&#10;    private readonly $Select1$ $Select2$;&#10;    &#10;    public $FileName$(Contexts contexts) : base(contexts.$Select3$)&#10;    { $Select2$ = contexts.$Select3$; }&#10;&#10;&#10;    protected override ICollector&lt;$Entity$&gt; GetTrigger(IContext&lt;$Entity$&gt; context)&#10;    {&#10;        return context.CreateCollector($Match1$.$Match2$);&#10;    }&#10;&#10;    protected override bool Filter( $Entity$ entity) { return true; }&#10;&#10;    protected override void Execute(List&lt;$Entity$&gt; entities)&#10;    {&#10;        foreach (var e in entities)&#10;        {&#10;            $END$&#10;        }&#10;    }&#10;}" description="Entitas ReactiveSystem&lt;T&gt;" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="FileName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="Select1" expression="complete()" defaultValue="&quot;GameContext&quot;" alwaysStopAt="true" />
+    <variable name="Select2" expression="complete()" defaultValue="&quot;_gameContext&quot;" alwaysStopAt="true" />
+    <variable name="Select3" expression="complete()" defaultValue="&quot;game&quot;" alwaysStopAt="true" />
+    <variable name="Entity" expression="complete()" defaultValue="&quot;GameEntity&quot;" alwaysStopAt="true" />
+    <variable name="Match1" expression="complete()" defaultValue="&quot;GameMatcher&quot;" alwaysStopAt="true" />
+    <variable name="Match2" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="er_1" value="using System.Collections.Generic;&#10;using Entitas;&#10;&#10;public sealed class $FileName$ : ReactiveSystem&lt;$ContextName$Entity&gt;&#10;{&#10;    private readonly $ContextName$Context _$ContextNameLowercase$Context;&#10;    &#10;    public $FileName$(Contexts contexts) : base(contexts.$ContextNameLowercase$)&#10;    { _$ContextNameLowercase$Context = contexts.$ContextNameLowercase$; }&#10;&#10;&#10;    protected override ICollector&lt;$ContextName$Entity&gt; GetTrigger(IContext&lt;$ContextName$Entity&gt; context)&#10;    {&#10;        return context.CreateCollector($ContextName$Matcher.$Match$);&#10;    }&#10;&#10;    protected override bool Filter( $ContextName$Entity entity) { return true; }&#10;&#10;    protected override void Execute(List&lt;$ContextName$Entity&gt; entities)&#10;    {&#10;        foreach (var e in entities)&#10;        {&#10;            $END$&#10;        }&#10;    }&#10;}" description="Entitas ReactiveSystem&lt;T&gt;" toReformat="false" toShortenFQNames="true" deactivated="true">
+    <variable name="FileName" expression="fileNameWithoutExtension()" defaultValue="" alwaysStopAt="false" />
+    <variable name="ContextName" expression="" defaultValue="&quot;Game&quot;" alwaysStopAt="true" />
+    <variable name="ContextNameLowercase" expression="" defaultValue="&quot;game&quot;" alwaysStopAt="true" />
+    <variable name="Match" expression="complete()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="CSS" value="false" />
+      <option name="CUCUMBER_FEATURE_FILE" value="false" />
+      <option name="CoffeeScript" value="false" />
+      <option name="HTML" value="false" />
+      <option name="Handlebars" value="false" />
+      <option name="JADE" value="false" />
+      <option name="JAVA_SCRIPT" value="false" />
+      <option name="JSON" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="SQL" value="false" />
+      <option name="TypeScript" value="false" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,11 @@
+<application>
+  <component name="AtomFileIconsConfig">
+    <option name="enabledIcons" value="false" />
+    <option name="hideFolderIcons" value="true" />
+    <option name="isEnabledIcons" value="false" />
+    <option name="monochromeColor" value="546e7a" />
+    <option name="isHideFolderIcons" value="true" />
+    <option name="arrowsStyle" value="Darcula" />
+    <option name="hasBigIcons" value="true" />
+  </component>
+</application>

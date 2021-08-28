@@ -1,0 +1,59 @@
+<keymap version="1" name="ReSharper copy" parent="ReSharper">
+  <action id="Arrangement.Rule.Match.Condition.Move.Down" />
+  <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CloneCaretAboveWithVirtualSpace" />
+  <action id="CloneCaretBelowWithVirtualSpace" />
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
+  <action id="EditorMoveDownAndScroll">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="EditorMoveUpAndScroll">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="ExpandRegion">
+    <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl f7" />
+  </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
+  </action>
+  <action id="MethodDown">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+  </action>
+  <action id="MethodUp">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+  </action>
+  <action id="MoveEditorToOppositeTabGroup">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt up" />
+  </action>
+  <action id="MoveTabRight">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="NextOccurence" />
+  <action id="PreviousOccurence" />
+  <action id="RecentChanges">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
+  <action id="RecentLocations">
+    <keyboard-shortcut first-keystroke="shift ctrl e" />
+  </action>
+  <action id="ShowContent" />
+  <action id="Unscramble" />
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="alt page_down" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+</keymap>

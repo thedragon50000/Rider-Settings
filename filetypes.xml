@@ -1,28 +1,8 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.pyc;*.pyo;*.rbc;*.yarb;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="aa" type="PLAIN_TEXT" />
-      <mapping ext="bytes" type="PLAIN_TEXT" />
-      <mapping ext="lombok" type="PLAIN_TEXT" />
-      <removed_mapping ext="phtml" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="php4" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="php5" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="swift" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="bxml" type="XML" />
-      <removed_mapping ext="phtml" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="groovy" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="php4" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="php5" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="php" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <removed_mapping ext="swift" approved="true" type="PLAIN_TEXT" />
+      <mapping pattern="MySaveData" type="AUTO_DETECTED" />
     </extensionMap>
   </component>
 </application>

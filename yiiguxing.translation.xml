@@ -1,90 +1,29 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="multiple" />
-      <item value="certainty" />
-      <item value="digest" />
-      <item value="Interop" />
-      <item value="Interop Services" />
-      <item value="assembly" />
-      <item value="through" />
-      <item value="sealed" />
-      <item value="Culture" />
-      <item value="Trademark" />
-      <item value="Could" />
-      <item value="Behaviour" />
-      <item value="Clear" />
-      <item value="session Cipher" />
-      <item value="Signature:" />
-      <item value="nameof" />
-      <item value="signer" />
-      <item value="Verify" />
-      <item value="signature" />
-      <item value="Asymmetric" />
-      <item value="Bouncy" />
-      <item value="Strength" />
-      <item value="strength" />
-      <item value="Subject" />
-      <item value="Castle" />
-      <item value="recognised" />
-      <item value="recognised.”" />
-      <item value="partial" />
-      <item value="corrupted”" />
-      <item value="corrupted" />
-      <item value="pad block corrupte" />
-      <item value="ANSIX 923" />
-      <item value="Zeros" />
-      <item value="PKCS 7" />
-      <item value="_algorithm" />
-      <item value="Generate Key" />
-      <item value="internal" />
-      <item value="algorithm" />
-      <item value="for Encryption" />
-      <item value="Certificate" />
-      <item value="Certificat" />
-      <item value="X 509 Extension Base" />
-      <item value="Public Exponent" />
-      <item value="Modulus" />
-      <item value="Exponent" />
-      <item value="Asymmetric Cipher" />
-      <item value="include Private Parameters" />
-      <item value="Crypto" />
-      <item value="secret" />
-      <item value="secret Key" />
+      <item value="Should Return Positive Number Of Add Result" />
+      <item value="Should Return Positive Number" />
+      <item value="Positive" />
+      <item value="dfhsakjfmndsnf" />
+      <item value="dfhsakj" />
+      <item value="Abstract Builder" />
+      <item value="id" />
+      <item value="Get Actor Id" />
+      <item value="actor Id" />
+      <item value="Id" />
+      <item value="actor" />
+      <item value="google" />
+      <item value="g" />
+      <item value="a" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="584" />
-        <entry key="ENGLISH" value="585" />
-        <entry key="CHINESE_TRADITIONAL" value="6" />
-        <entry key="ARABIC" value="1" />
-        <entry key="ESTONIAN" value="1" />
-        <entry key="BELARUSIAN" value="1" />
-        <entry key="DANISH" value="1" />
-        <entry key="GERMAN" value="1" />
-        <entry key="RUSSIAN" value="1" />
-        <entry key="FRENCH" value="4" />
-        <entry key="GALICIAN" value="3" />
-        <entry key="CZECH" value="2" />
-        <entry key="LUXEMBOURGISH" value="1" />
-        <entry key="ROMANIAN" value="2" />
-        <entry key="NORWEGIAN" value="1" />
-        <entry key="SWEDISH" value="1" />
-        <entry key="TELUGU" value="1" />
-        <entry key="UKRAINIAN" value="1" />
-        <entry key="VIETNAMESE" value="1" />
+        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE_TRADITIONAL" value="17" />
       </map>
     </option>
   </component>
-  <component name="Settings">
-    <option name="baiduTranslateSettings">
-      <app-key>
-        <option name="appId" value="20180810000193114" />
-      </app-key>
-    </option>
-    <option name="ignoreRegExp" value="" />
-    <option name="overrideFont" value="true" />
-    <option name="phoneticFontFamily" value="Monospaced" />
-    <option name="primaryFontFamily" value="Monospaced" />
+  <component name="Cache">
+    <option name="lastTrimTime" value="1619253884583" />
   </component>
 </application>
