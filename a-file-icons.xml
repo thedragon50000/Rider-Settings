@@ -1,12 +1,10 @@
 <application>
   <component name="AtomFileIconsConfig">
-    <option name="enabledPsiIcons" value="false" />
-    <option name="enabledUIIcons" value="false" />
-    <option name="useHollowFolders" value="false" />
-    <option name="isEnabledUIIcons" value="false" />
+    <option name="enabledIcons" value="false" />
+    <option name="hideFolderIcons" value="true" />
+    <option name="isEnabledIcons" value="false" />
     <option name="monochromeColor" value="546e7a" />
-    <option name="isEnabledPsiIcons" value="false" />
-    <option name="isUseHollowFolders" value="false" />
+    <option name="isHideFolderIcons" value="true" />
     <option name="arrowsStyle" value="Darcula" />
     <option name="hasBigIcons" value="true" />
   </component>
