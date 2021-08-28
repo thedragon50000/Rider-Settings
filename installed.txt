@@ -1,6 +1,0 @@
-AceJump
-IdeaVIM
-PlantUML integration
-de.endrullis.idea.postfixtemplates
-manjaro.epb
-org.nik.presentation-assistant

@@ -1,11 +1,11 @@
 <application>
   <component name="GithubAccounts">
-    <account name="L1247" id="b88b770e-bca9-4052-b011-01c5fbbd2453">
+    <account id="687b2f9c-f35a-45d9-b003-3bf2008f7322" name="quanchangnai@126.com">
       <server host="github.com" />
     </account>
   </component>
   <component name="GithubSettings">
-    <option name="PRIVATE_GIST" value="false" />
-    <option name="CLONE_GIT_USING_SSH" value="true" />
+    <option name="LOGIN" value="quanchangnai" />
+    <option name="AUTH_TYPE" value="BASIC" />
   </component>
 </application>
