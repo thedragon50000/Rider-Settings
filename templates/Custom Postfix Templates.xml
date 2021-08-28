@@ -1,7 +1,5 @@
 <templateSet group="Custom Postfix Templates">
-  <template name="-&gt;" value="→" description="→" toReformat="false" toShortenFQNames="true" deactivated="true">
-    <context />
-  </template>
+  <template name="-&gt;" value="→" description="→" toReformat="false" toShortenFQNames="true" deactivated="true" />
   <template name="_" value="$var$ -&gt; $var$" description="lambda" toReformat="false" toShortenFQNames="true" deactivated="true">
     <variable name="var" expression="suggestShortVariableName()" defaultValue="v" alwaysStopAt="false" />
     <context>
