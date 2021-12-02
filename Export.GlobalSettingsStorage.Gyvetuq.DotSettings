@@ -1,0 +1,352 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/CodeEditing/TypingAssist/VirtualSpaceOnEnter/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeInspection/Highlighting/IdentifierHighlightingEnabled/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=AccessToForEachVariableInClosure/@EntryIndexedValue">HINT</s:String>
+	<s:String x:Key="/Default/CodeStyle/CodeCleanup/Profiles/=rStar/@EntryIndexedValue">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;Profile name="rStar"&gt;&lt;XMLReformatCode&gt;True&lt;/XMLReformatCode&gt;&lt;CSCodeStyleAttributes ArrangeTypeAccessModifier="True" ArrangeTypeMemberAccessModifier="True" SortModifiers="True" RemoveRedundantParentheses="True" AddMissingParentheses="True" ArrangeBraces="True" ArrangeAttributes="True" ArrangeArgumentsStyle="True" ArrangeCodeBodyStyle="True" ArrangeVarStyle="True" ArrangeTrailingCommas="True" /&gt;&lt;HtmlReformatCode&gt;True&lt;/HtmlReformatCode&gt;&lt;CppReformatCode&gt;True&lt;/CppReformatCode&gt;&lt;ShaderLabReformatCode&gt;True&lt;/ShaderLabReformatCode&gt;&lt;VBReformatCode&gt;True&lt;/VBReformatCode&gt;&lt;CSOptimizeUsings&gt;&lt;OptimizeUsings&gt;True&lt;/OptimizeUsings&gt;&lt;EmbraceInRegion&gt;True&lt;/EmbraceInRegion&gt;&lt;RegionName&gt;&lt;/RegionName&gt;&lt;/CSOptimizeUsings&gt;&lt;CSReformatCode&gt;True&lt;/CSReformatCode&gt;&lt;CSUpdateFileHeader&gt;True&lt;/CSUpdateFileHeader&gt;&lt;RemoveCodeRedundancies&gt;True&lt;/RemoveCodeRedundancies&gt;&lt;CSUseAutoProperty&gt;True&lt;/CSUseAutoProperty&gt;&lt;CSMakeFieldReadonly&gt;True&lt;/CSMakeFieldReadonly&gt;&lt;CSMakeAutoPropertyGetOnly&gt;True&lt;/CSMakeAutoPropertyGetOnly&gt;&lt;CSArrangeQualifiers&gt;True&lt;/CSArrangeQualifiers&gt;&lt;CSFixBuiltinTypeReferences&gt;True&lt;/CSFixBuiltinTypeReferences&gt;&lt;CSShortenReferences&gt;True&lt;/CSShortenReferences&gt;&lt;CSharpFormatDocComments&gt;True&lt;/CSharpFormatDocComments&gt;&lt;IDEA_SETTINGS&gt;&amp;lt;profile version="1.0"&amp;gt;&#xD;
+  &amp;lt;option name="myName" value="rStar" /&amp;gt;&#xD;
+&amp;lt;/profile&amp;gt;&lt;/IDEA_SETTINGS&gt;&lt;CSReorderTypeMembers&gt;True&lt;/CSReorderTypeMembers&gt;&lt;/Profile&gt;</s:String>
+	<s:String x:Key="/Default/CodeStyle/CodeCleanup/RecentlyUsedProfile/@EntryValue">rStar</s:String>
+	<s:String x:Key="/Default/CodeStyle/CodeCleanup/SilentCleanupProfile/@EntryValue">rStar</s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/ALIGN_LINQ_QUERY/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/ALIGN_MULTILINE_ARGUMENT/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/ALIGN_MULTILINE_CALLS_CHAIN/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/ALIGN_MULTILINE_EXPRESSION/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/ALIGN_MULTILINE_EXTENDS_LIST/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/ALIGN_MULTILINE_FOR_STMT/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/ALIGN_MULTILINE_PARAMETER/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/ALIGN_MULTIPLE_DECLARATION/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/ALIGN_MULTLINE_TYPE_PARAMETER_CONSTRAINS/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/ALIGN_MULTLINE_TYPE_PARAMETER_LIST/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/ALIGN_TUPLE_COMPONENTS/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/EMPTY_BLOCK_STYLE/@EntryValue">TOGETHER_SAME_LINE</s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INDENT_NESTED_FIXED_STMT/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INDENT_NESTED_FOR_STMT/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INDENT_NESTED_FOREACH_STMT/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INDENT_NESTED_LOCK_STMT/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INDENT_NESTED_USINGS_STMT/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INDENT_NESTED_WHILE_STMT/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INDENT_PREPROCESSOR_IF/@EntryValue">OUTDENT</s:String>
+	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INDENT_PREPROCESSOR_OTHER/@EntryValue">OUTDENT</s:String>
+	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INDENT_PREPROCESSOR_REGION/@EntryValue">OUTDENT</s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INDENT_TYPE_CONSTRAINTS/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INT_ALIGN_ASSIGNMENTS/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INT_ALIGN_BINARY_EXPRESSIONS/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INT_ALIGN_COMMENTS/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INT_ALIGN_FIELDS/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INT_ALIGN_INVOCATIONS/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INT_ALIGN_METHODS/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INT_ALIGN_NESTED_TERNARY/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INT_ALIGN_PARAMETERS/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INT_ALIGN_PROPERTIES/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INT_ALIGN_SWITCH_EXPRESSIONS/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INT_ALIGN_SWITCH_SECTIONS/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INT_ALIGN_VARIABLES/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/PLACE_ACCESSORHOLDER_ATTRIBUTE_ON_SAME_LINE_EX/@EntryValue">NEVER</s:String>
+	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/PLACE_FIELD_ATTRIBUTE_ON_SAME_LINE_EX/@EntryValue">NEVER</s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_AFTER_TYPECAST_PARENTHESES/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_AROUND_ARROW_OP/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_BEFORE_ATTRIBUTE_COLON/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_BEFORE_COLON_IN_CASE/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_BEFORE_COMMA/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_BEFORE_FOR_SEMICOLON/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_BEFORE_POINTER_ASTERIK_DECLARATION/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_WITHIN_SINGLE_LINE_ARRAY_INITIALIZER_BRACES/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/STICK_COMMENT/@EntryValue">False</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/WRAP_ENUM_DECLARATION/@EntryValue">WRAP_IF_LONG</s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/XmlDocFormatter/ProcessingInstructionAroundAttributeEq/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/CSharpFileLayoutPatterns/Pattern/@EntryValue">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;Patterns xmlns="urn:schemas-jetbrains-com:member-reordering-patterns"&gt;
+    &lt;TypePattern DisplayName="Non-reorderable types"&gt;
+        &lt;TypePattern.Match&gt;
+            &lt;Or&gt;
+                &lt;And&gt;
+                    &lt;Kind Is="Interface" /&gt;
+                    &lt;Or&gt;
+                        &lt;HasAttribute Name="System.Runtime.InteropServices.InterfaceTypeAttribute" /&gt;
+                        &lt;HasAttribute Name="System.Runtime.InteropServices.ComImport" /&gt;
+                    &lt;/Or&gt;
+                &lt;/And&gt;
+                &lt;Kind Is="Struct" /&gt;
+                &lt;HasAttribute Name="JetBrains.Annotations.NoReorderAttribute" /&gt;
+                &lt;HasAttribute Name="JetBrains.Annotations.NoReorder" /&gt;
+            &lt;/Or&gt;
+        &lt;/TypePattern.Match&gt;
+    &lt;/TypePattern&gt;
+    &lt;TypePattern DisplayName="xUnit.net Test Classes" RemoveRegions="All"&gt;
+        &lt;TypePattern.Match&gt;
+            &lt;And&gt;
+                &lt;Kind Is="Class" /&gt;
+                &lt;HasMember&gt;
+                    &lt;And&gt;
+                        &lt;Kind Is="Method" /&gt;
+                        &lt;HasAttribute Name="Xunit.FactAttribute" Inherited="True" /&gt;
+                    &lt;/And&gt;
+                &lt;/HasMember&gt;
+            &lt;/And&gt;
+        &lt;/TypePattern.Match&gt;
+        &lt;Entry DisplayName="Static Fields and Constants"&gt;
+            &lt;Entry.Match&gt;
+                &lt;Or&gt;
+                    &lt;Kind Is="Constant" /&gt;
+                    &lt;And&gt;
+                        &lt;Kind Is="Field" /&gt;
+                        &lt;Static /&gt;
+                    &lt;/And&gt;
+                &lt;/Or&gt;
+            &lt;/Entry.Match&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Kind Order="Constant Field" /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="Fields"&gt;
+            &lt;Entry.Match&gt;
+                &lt;And&gt;
+                    &lt;Kind Is="Field" /&gt;
+                    &lt;Not&gt;
+                        &lt;Static /&gt;
+                    &lt;/Not&gt;
+                &lt;/And&gt;
+            &lt;/Entry.Match&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Readonly /&gt;
+                &lt;Name /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="Constructors"&gt;
+            &lt;Entry.Match&gt;
+                &lt;Kind Is="Constructor" /&gt;
+            &lt;/Entry.Match&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Static /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="Setup/Teardown Methods"&gt;
+            &lt;Entry.Match&gt;
+                &lt;Or&gt;
+                    &lt;Kind Is="Constructor" /&gt;
+                    &lt;And&gt;
+                        &lt;Kind Is="Method" /&gt;
+                        &lt;ImplementsInterface Name="System.IDisposable" /&gt;
+                    &lt;/And&gt;
+                &lt;/Or&gt;
+            &lt;/Entry.Match&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Kind Order="Constructor" /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="Test Methods" Priority="100"&gt;
+            &lt;Entry.Match&gt;
+                &lt;And&gt;
+                    &lt;Kind Is="Method" /&gt;
+                    &lt;HasAttribute Name="Xunit.FactAttribute" /&gt;
+                &lt;/And&gt;
+            &lt;/Entry.Match&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="static methods"&gt;
+            &lt;Entry.Match&gt;
+                &lt;And&gt;
+                    &lt;Kind Is="Method" /&gt;
+                    &lt;Static /&gt;
+                &lt;/And&gt;
+            &lt;/Entry.Match&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Access /&gt;
+                &lt;Name /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="All other members" /&gt;
+    &lt;/TypePattern&gt;
+    &lt;TypePattern DisplayName="NUnit Test Fixtures" RemoveRegions="All"&gt;
+        &lt;TypePattern.Match&gt;
+            &lt;And&gt;
+                &lt;Kind Is="Class" /&gt;
+                &lt;HasAttribute Name="NUnit.Framework.TestFixtureAttribute" Inherited="True" /&gt;
+            &lt;/And&gt;
+        &lt;/TypePattern.Match&gt;
+        &lt;Entry DisplayName="Static Fields and Constants"&gt;
+            &lt;Entry.Match&gt;
+                &lt;Or&gt;
+                    &lt;Kind Is="Constant" /&gt;
+                    &lt;And&gt;
+                        &lt;Kind Is="Field" /&gt;
+                        &lt;Static /&gt;
+                    &lt;/And&gt;
+                &lt;/Or&gt;
+            &lt;/Entry.Match&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Kind Order="Constant Field" /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="Fields"&gt;
+            &lt;Entry.Match&gt;
+                &lt;And&gt;
+                    &lt;Kind Is="Field" /&gt;
+                    &lt;Not&gt;
+                        &lt;Static /&gt;
+                    &lt;/Not&gt;
+                &lt;/And&gt;
+            &lt;/Entry.Match&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Readonly /&gt;
+                &lt;Name /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="Constructors"&gt;
+            &lt;Entry.Match&gt;
+                &lt;Kind Is="Constructor" /&gt;
+            &lt;/Entry.Match&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Static /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="Setup/Teardown Methods"&gt;
+            &lt;Entry.Match&gt;
+                &lt;And&gt;
+                    &lt;Kind Is="Method" /&gt;
+                    &lt;Or&gt;
+                        &lt;HasAttribute Name="NUnit.Framework.SetUpAttribute" Inherited="True" /&gt;
+                        &lt;HasAttribute Name="NUnit.Framework.TearDownAttribute" Inherited="True" /&gt;
+                        &lt;HasAttribute Name="NUnit.Framework.FixtureSetUpAttribute" Inherited="True" /&gt;
+                        &lt;HasAttribute Name="NUnit.Framework.FixtureTearDownAttribute" Inherited="True" /&gt;
+                    &lt;/Or&gt;
+                &lt;/And&gt;
+            &lt;/Entry.Match&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="Test Methods" Priority="100"&gt;
+            &lt;Entry.Match&gt;
+                &lt;And&gt;
+                    &lt;Kind Is="Method" /&gt;
+                    &lt;HasAttribute Name="NUnit.Framework.TestAttribute" /&gt;
+                &lt;/And&gt;
+            &lt;/Entry.Match&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="static methods"&gt;
+            &lt;Entry.Match&gt;
+                &lt;And&gt;
+                    &lt;Kind Is="Method" /&gt;
+                    &lt;Static /&gt;
+                &lt;/And&gt;
+            &lt;/Entry.Match&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Access /&gt;
+                &lt;Name /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="All other members"&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Access /&gt;
+                &lt;Name /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+    &lt;/TypePattern&gt;
+    &lt;TypePattern DisplayName="Default Pattern"&gt;
+        &lt;Entry DisplayName="Public Delegates" Priority="100"&gt;
+            &lt;Entry.Match&gt;
+                &lt;And&gt;
+                    &lt;Access Is="Public" /&gt;
+                    &lt;Kind Is="Delegate" /&gt;
+                &lt;/And&gt;
+            &lt;/Entry.Match&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Name /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="Public Enums" Priority="100"&gt;
+            &lt;Entry.Match&gt;
+                &lt;And&gt;
+                    &lt;Access Is="Public" /&gt;
+                    &lt;Kind Is="Enum" /&gt;
+                &lt;/And&gt;
+            &lt;/Entry.Match&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Name /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="Static Fields and Constants"&gt;
+            &lt;Entry.Match&gt;
+                &lt;Or&gt;
+                    &lt;Kind Is="Constant" /&gt;
+                    &lt;And&gt;
+                        &lt;Kind Is="Field" /&gt;
+                        &lt;Static /&gt;
+                    &lt;/And&gt;
+                &lt;/Or&gt;
+            &lt;/Entry.Match&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Kind Order="Constant Field" /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="Fields"&gt;
+            &lt;Entry.Match&gt;
+                &lt;And&gt;
+                    &lt;Kind Is="Field" /&gt;
+                    &lt;Not&gt;
+                        &lt;Static /&gt;
+                    &lt;/Not&gt;
+                &lt;/And&gt;
+            &lt;/Entry.Match&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Readonly /&gt;
+                &lt;Name /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="Constructors"&gt;
+            &lt;Entry.Match&gt;
+                &lt;Kind Is="Constructor" /&gt;
+            &lt;/Entry.Match&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Static /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="Properties, Indexers"&gt;
+            &lt;Entry.Match&gt;
+                &lt;Or&gt;
+                    &lt;Kind Is="Property" /&gt;
+                    &lt;Kind Is="Indexer" /&gt;
+                &lt;/Or&gt;
+            &lt;/Entry.Match&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="Interface Implementations" Priority="100"&gt;
+            &lt;Entry.Match&gt;
+                &lt;And&gt;
+                    &lt;Kind Is="Member" /&gt;
+                    &lt;ImplementsInterface /&gt;
+                &lt;/And&gt;
+            &lt;/Entry.Match&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;ImplementsInterface Immediate="True" /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="All other members"&gt;
+            &lt;Entry.SortBy&gt;
+                &lt;Access /&gt;
+                &lt;Static /&gt;
+                &lt;Name /&gt;
+            &lt;/Entry.SortBy&gt;
+        &lt;/Entry&gt;
+        &lt;Entry DisplayName="Nested Types"&gt;
+            &lt;Entry.Match&gt;
+                &lt;Kind Is="Type" /&gt;
+            &lt;/Entry.Match&gt;
+        &lt;/Entry&gt;
+    &lt;/TypePattern&gt;
+&lt;/Patterns&gt;
+</s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/EncapsulateField/MakeFieldPrivate/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/EncapsulateField/UpdateExternalUsagesOnly/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/Generate/=Constructor/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/Generate/=Constructor/Options/=CheckForNull/@EntryIndexedValue">False</s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/Generate/=EqualityMembers/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/Generate/=EqualityMembers/Options/=EqualityOperators/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/CodeStyle/Generate/=EqualityMembers/Options/=ImplementIEquatable/@EntryIndexedValue">False</s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/Generate/=Implementations/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/Generate/=Implementations/Options/=Mutable/@EntryIndexedValue">False</s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/Naming/CSharpAutoNaming/IsNotificationDisabled/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/Editor/OverrideGotoCodeBlockEndAction/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/Editor/UseCamelHumps/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/Xamarin/AndroidNdkPath/@EntryValue">C:\Program Files (x86)\Android\android-ndk-r10e</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/Xamarin/AndroidSdkPath/@EntryValue">C:\Program Files (x86)\Android\android-sdk</s:String>
+	<s:String x:Key="/Default/Environment/Hierarchy/Build/Xamarin/JavaDevelopmentKitPath/@EntryValue">C:\Program Files\Java\jdk1.8.0_161</s:String>
+	<s:Boolean x:Key="/Default/Environment/Hierarchy/NuGetOptions/GlobalEnabled/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionDefault/Groupings/@EntryValue">Namespace;Project</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/UnitTestingMru/UnitTestSessionDefault/ShowTime/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>

@@ -1,0 +1,10 @@
+<application>
+  <component name="PresentationAssistant">
+    <option name="alternativeKeymap" />
+    <option name="mainKeymap">
+      <KeymapDescription>
+        <option name="name" value="rStar" />
+      </KeymapDescription>
+    </option>
+  </component>
+</application>
