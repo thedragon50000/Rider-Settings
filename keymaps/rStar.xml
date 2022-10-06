@@ -49,6 +49,9 @@
   <action id="CollapseRegion">
     <keyboard-shortcut first-keystroke="shift ctrl comma" />
   </action>
+  <action id="CollapseRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt subtract" />
+  </action>
   <action id="Debugger.EditTypeSource" />
   <action id="Diff.NextChange" />
   <action id="DuplicatesForm.SendToLeft" />
@@ -75,6 +78,9 @@
   </action>
   <action id="ExpandRegion">
     <keyboard-shortcut first-keystroke="shift ctrl period" />
+  </action>
+  <action id="ExpandRegionRecursively">
+    <keyboard-shortcut first-keystroke="ctrl alt add" />
   </action>
   <action id="ExternalJavaDoc">
     <keyboard-shortcut first-keystroke="shift f1" />
