@@ -102,6 +102,9 @@
     <mouse-shortcut keystroke="button5" />
   </action>
   <action id="Git.Commit.And.Push.Executor" />
+  <action id="GoToLastTab">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad0" />
+  </action>
   <action id="GotoBookmark1" />
   <action id="GotoBookmark3" />
   <action id="GotoBookmark6" />
